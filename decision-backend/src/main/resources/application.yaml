@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: decision-savior
+
+# 后端运行在 8080 端口
+server:
+  port: 8080
